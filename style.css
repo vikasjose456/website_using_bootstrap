@@ -1,0 +1,16 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+.d-block {
+    display: block !important;
+}
+
+img, svg {
+    vertical-align: middle;
+}
